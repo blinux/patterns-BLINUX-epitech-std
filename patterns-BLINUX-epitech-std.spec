@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-epitech-std
 Version:        2.0
-Release:        1
+Release:        2
 Summary:        Meta package for Epitech need
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -109,6 +109,7 @@ Requires:	php5-gettext
 Requires:	php5-mbstring
 Requires:	php5-mysql
 Requires:	php5-mcrypt
+Requires:	php5-posix
 Requires:	pidgin
 Requires:	python-pip
 Requires:	python-virtualenv
