@@ -129,7 +129,7 @@ Requires:	tree
 Requires:	valgrind
 Requires:	valgrind-devel
 Requires:	virtualbox
-Requires:	vlc
+Requires:	vlc-gnome
 Requires:	wireshark
 Requires:	xchat
 Requires:	zip
