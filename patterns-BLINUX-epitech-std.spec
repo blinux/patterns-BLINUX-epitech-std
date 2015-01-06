@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-epitech-std
 Version:        2.0
-Release:        3
+Release:        4
 Summary:        Meta package for Epitech need
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -132,6 +132,7 @@ Requires:	virtualbox
 Requires:	vlc-gnome
 Requires:	wireshark
 Requires:	xchat
+Requires:	zlib-devel
 Requires:	zip
 Requires:	zsh
 
