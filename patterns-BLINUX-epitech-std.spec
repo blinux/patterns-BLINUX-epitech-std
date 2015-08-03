@@ -24,8 +24,8 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 Name:           patterns-BLINUX-epitech-std
-Version:        2.0
-Release:        5
+Version:        3.0
+Release:        0
 Summary:        Meta package for Epitech need
 Group:          Metapackages
 License:        BSD-2-Clause
