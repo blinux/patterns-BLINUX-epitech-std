@@ -25,7 +25,7 @@
 
 Name:           patterns-BLINUX-epitech-std
 Version:        3.0
-Release:        0
+Release:        1
 Summary:        Meta package for Epitech need
 Group:          Metapackages
 License:        BSD-2-Clause
@@ -129,7 +129,6 @@ Requires:	texlive-pdftools
 Requires:	tree
 Requires:	valgrind
 Requires:	valgrind-devel
-Requires:	virtualbox
 Requires:	vlc-gnome
 Requires:	wireshark
 Requires:	xchat
