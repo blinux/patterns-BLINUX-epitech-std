@@ -25,14 +25,14 @@
 
 Name:           patterns-BLINUX-epitech-std
 Version:        3.0
-Release:        1
+Release:        2
 Summary:        Meta package for Epitech need
 Group:          Metapackages
 License:        BSD-2-Clause
 Url:            http://www.blinux.fr
-BuildRequires:  patterns
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
 BuildArch:      noarch
+Vendor:		Blinux
 
 Requires:	ImageMagick-devel
 Requires:	autoconf
@@ -104,6 +104,8 @@ Requires:	ncurses-devel
 Requires:	nodejs
 Requires:	ocaml
 Requires:	php5
+Requires:	php5-curl
+Requires:	php5-fileinfo
 Requires:	php5-gd
 Requires:	php5-gettext
 Requires:	php5-mbstring
